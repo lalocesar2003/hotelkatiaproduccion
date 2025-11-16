@@ -6,7 +6,7 @@ RewriteRule ^([-a-zA-Z0-9/]+)$ index.php?pagina=$1
 Header always set Content-Security-Policy: upgrade-insecure-requests
 
 RewriteEngine On
-RewriteCond %{HTTP_HOST} ^https://hospedajevirgendelcarmen\.com$  [OR] 
-RewriteCond %{HTTP_HOST} ^www\.hospedajevirgendelcarmen\.com$  
+RewriteCond %{HTTP_HOST} ^https://xn--dueo-iqa.site\.com$  [OR] 
+RewriteCond %{HTTP_HOST} ^www\.xn--dueo-iqa.site\.com$  
 RewriteCond %{HTTPS} !on 
-RewriteRule ^(.*)$ https://hospedajevirgendelcarmen.com/$1  [R=301,L,NE] 
+RewriteRule ^(.*)$ https://xn--dueo-iqa.site/$1  [R=301,L,NE] 
