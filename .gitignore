@@ -1,0 +1,4 @@
+config/config.local.php
+modelos/client_secret.json
+.env
+.env.local
