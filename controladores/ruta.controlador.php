@@ -4,13 +4,13 @@ class ControladorRuta{
 
 	static public function ctrRuta(){
 
-		return "http://hospedajevirgendelcarmen.com/";
+		return "https://xn--dueo-iqa.site/";
 
 	}
 
 	static public function ctrServidor(){
 
-		return "http://hospedajevirgendelcarmen.com/backend/";
+		return "https://xn--dueo-iqa.site/backend/";
 	}
 
 }
