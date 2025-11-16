@@ -4,13 +4,13 @@ class ControladorRuta{
 
 	static public function ctrRuta(){
 
-		return "https://xn--dueo-iqa.site/";
+		return "http://xn--dueo-iqa.site/";
 
 	}
 
 	static public function ctrServidor(){
 
-		return "https://xn--dueo-iqa.site/backend/";
+		return "http://xn--dueo-iqa.site/backend/";
 	}
 
 }
