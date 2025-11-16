@@ -4,13 +4,13 @@ class ControladorRuta{
 
 	static public function ctrRuta(){
 
-		return "http://localhost/reservas-hotel/";
+		return "https://xn--dueo-iqa.site/reservas-hotel/";
 
 	}
 
 	static public function ctrRutaBackend(){
 
-		return "http://localhost/reservas-hotel/backend/";
+		return "https://xn--dueo-iqa.site/reservas-hotel/backend/";
 
 	}
 
