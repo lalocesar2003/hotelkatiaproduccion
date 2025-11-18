@@ -6,7 +6,7 @@ Class Conexion{
 
 		$link = new PDO("mysql:host=localhost;dbname=u555795455_dueno",
 						"u555795455_dueno",
-						"@Laloeselmejor30");
+						"sY.m5p$GMJ$t&u6");
 
 		$link->exec("set names utf8");
 
